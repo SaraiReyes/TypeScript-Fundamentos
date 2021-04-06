@@ -1,5 +1,5 @@
 
-##================typescript===================
+# TypeScrit
 ##  Instalación 
 
 forma global
